@@ -1,0 +1,1 @@
+vertices_and_normals.txt
